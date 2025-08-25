@@ -46,5 +46,5 @@ Key DAX Measures:
 ---
 📷 Preview
 
-https://github.com/chinmaysahoo18/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20This%20Dashboard.png
+![image alt](https://github.com/chinmaysahoo18/Mobile-Sales-Dashboard/blob/6775d0db60ee498ce0b75166b559b9a3af320820/Snapshot%20of%20This%20Dashboard.png)
 
