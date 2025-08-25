@@ -21,7 +21,6 @@ Data Source: \[Add here – e.g., Excel/CSV/SQL]
 Key DAX Measures:
   * Total Sales
   * MTD / QTD / YTD Sales
-  * YoY Growth
 ---
 ## 📂 How to Use
 
@@ -45,5 +44,5 @@ Key DAX Measures:
 ---
 📷 Preview
 
-*(Add screenshot or GIF of your dashboard here)*
+(https://github.com/chinmaysahoo18/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20This%20Dashboard.png)
 ---
