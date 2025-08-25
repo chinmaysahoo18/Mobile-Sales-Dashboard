@@ -3,7 +3,9 @@ MOBILE SALES PROJECT
 Recommended Structures And Orde
 
 📊 Mobile Sales Dashboard – Power BI
+
 🚀 Overview
+
 An interactive **Power BI dashboard** to analyze **mobile sales performance** across regions, products, and time periods.
 It helps identify **trends, top-performing products, and high-demand regions** for business decision-making.
 ---
