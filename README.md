@@ -1,3 +1,4 @@
+#Mobile Sales project
 📊 Mobile Sales Dashboard – Power BI
 🚀 Overview
 An interactive Power BI dashboard to analyze mobile sales performance across regions, products, and time periods.
@@ -13,7 +14,7 @@ It helps identify trends, top-performing products, and high-demand regions for b
 🛠️ Tech Stack
 Tool: Power BI Desktop
 File: Mobile_Sales_Project.pbix
-Data Source: 
+Data Source:
 
 Key DAX Measures:
 Total Sales
