@@ -17,10 +17,9 @@ It helps identify **trends, top-performing products, and high-demand regions** f
 * 🔄 Reset Filters Button – Clear all slicers in one click
 ---
 🛠️ Tech Stack
-Tool: Power BI Desktop
-File: `Mobile_Sales_Project.pbix`
-Data Source: \[Add here – e.g., Excel/CSV/SQL]
-Key DAX Measures:
+1)Tool: Power BI Desktop
+2)File: `Mobile_Sales_Project.pbix`
+4)Key DAX Measures:
   * Total Sales
   * MTD / QTD / YTD Sales
 ---
